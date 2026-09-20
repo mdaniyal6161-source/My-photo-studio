@@ -1,0 +1,9 @@
+<resources>
+    <color name="navy">#071426</color>
+    <color name="blue">#1677FF</color>
+    <color name="purple">#7B3FF2</color>
+    <color name="green">#10B981</color>
+    <color name="white">#FFFFFF</color>
+    <color name="muted">#8FA2BA</color>
+    <color name="card">#10233B</color>
+</resources>
